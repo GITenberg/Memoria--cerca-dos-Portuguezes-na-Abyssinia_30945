@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34909'
     url: http://www.gutenberg.org/2009/agents/34909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30945#Memoria--cerca-dos-Portuguezes-na-Abyssinia
 gutenberg_issued: '2010-01-12'
 gutenberg_type: Text
 identifiers:

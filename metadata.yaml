@@ -1,0 +1,27 @@
+_repo: Memoria--cerca-dos-Portuguezes-na-Abyssinia_30945
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Soveral, Luiz Augusto Pinto Soveral, visconde de
+    alias: Soveral, Visconde de
+    birthdate: 1812
+    deathdate: 1905
+    gutenberg_agent_id: '34909'
+    url: http://www.gutenberg.org/2009/agents/34909
+description: ''
+gutenberg_issued: '2010-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30945'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese -- Ethiopia -- History'
+- !lcc 'DT'
+title: Memoria ácerca dos Portuguezes na Abyssinia
+url: http://www.gutenberg.org/ebooks/30945
